@@ -38,7 +38,8 @@ const Speedometer = () => {
   return (
     <div className="speedometer-container">
     {console.log(speed)}
-      <h2>Speedometer Application</h2>
+      <h2>Speedometer - 
+        Application</h2>
       <ReactSpeedometer
         minValue={0}
         maxValue={180}
